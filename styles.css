@@ -1,0 +1,49 @@
+#body{
+	
+}
+#main-header{
+	width: 90%;
+	padding: 30px 10px;
+	margin: 50px auto;
+	text-align: center;
+	color: blue;
+}
+#main-header .main-title{
+	font-size: 24px;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 3px;
+}
+#main-menu {
+	width: 50%;
+	padding: 30px 10px;
+	margin: 0 auto;
+}
+#main-menu #menu-container li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 10px;
+	padding: 20px 35px;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 2px;
+	color: #fff;
+}
+#main-week .sidebar li{
+	list-style: none;	
+}
+#main-menu #menu-container li:nth-child(1){
+	background-color: #328505;
+}
+#main-menu #menu-container li:nth-child(2){
+	background-color: #FF8522;
+}
+#footer {
+	list-style: none;
+	margin: 0 10px;
+    padding: 20px 35px;
+    
+    width: 66%;
+}
